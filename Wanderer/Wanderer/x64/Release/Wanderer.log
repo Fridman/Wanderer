@@ -1,0 +1,11 @@
+﻿Build started 12/05/2013 4:42:34 PM.
+     1>Project "C:\Users\Ben\Documents\Visual Studio 2012\Projects\Wanderer\Wanderer\Wanderer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Ben\Documents\Visual Studio 2012\SFML-2.0\include" /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+     1>Done Building Project "C:\Users\Ben\Documents\Visual Studio 2012\Projects\Wanderer\Wanderer\Wanderer.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.19

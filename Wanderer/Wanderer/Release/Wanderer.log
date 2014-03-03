@@ -1,0 +1,98 @@
+﻿Build started 25/01/2014 3:48:28 PM.
+     1>Project "C:\Users\Ben\Documents\Visual Studio 2012\Projects\Wanderer\Wanderer\Wanderer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Ben\Documents\Visual Studio 2012\SFML-2.0\include" /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(251): warning C4172: returning address of local variable or temporary
+     1>main.cpp(387): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(1060): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>main.cpp(1487): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(1488): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(1509): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(1565): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(1569): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(1575): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(1579): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(1587): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(1591): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(1597): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(1601): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(1613): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(1615): warning C4305: '=' : truncation from 'double' to 'float'
+     1>main.cpp(2040): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(2050): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(2062): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(2081): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(2085): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(2091): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(2095): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(2103): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(2107): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(2113): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(2117): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(2139): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2140): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2153): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(2155): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(2586): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2598): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2610): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2615): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2619): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2641): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2645): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2649): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2733): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2744): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2764): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2803): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2833): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2839): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2854): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2920): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(2929): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(3648): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(3703): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(3716): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(3717): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(3801): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(3809): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(3817): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(3825): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(3839): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(3912): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(3925): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(3928): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(3932): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(3963): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(3976): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(3979): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(3983): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(4018): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(4031): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(4034): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(4038): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(4069): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(4082): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(4085): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(4089): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(4165): warning C4305: '=' : truncation from 'double' to 'float'
+     1>main.cpp(4169): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>main.cpp(4232): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _mkdir. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\direct.h(140) : see declaration of 'mkdir'
+     1>main.cpp(4247): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(4266): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(4309): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(4310): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(4570): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ben\Documents\Visual Studio 2012\Projects\Wanderer\Release\Wanderer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Ben\Documents\Visual Studio 2012\SFML-2.0\lib" "sfml-graphics.lib" "sfml-main.lib" "sfml-window.lib" "sfml-system.lib" "sfml-audio.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ben\Documents\Visual Studio 2012\Projects\Wanderer\Release\Wanderer.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ben\Documents\Visual Studio 2012\Projects\Wanderer\Release\Wanderer.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Generating code
+     1>c:\users\ben\documents\visual studio 2012\projects\wanderer\wanderer\main.cpp(1230): warning C4715: 'Cache_Array::get_close' : not all control paths return a value
+         Finished generating code
+         Wanderer.vcxproj -> C:\Users\Ben\Documents\Visual Studio 2012\Projects\Wanderer\Release\Wanderer.exe
+     1>Done Building Project "C:\Users\Ben\Documents\Visual Studio 2012\Projects\Wanderer\Wanderer\Wanderer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.71

@@ -1,0 +1,14 @@
+Master:
+Killer:
+Giver:
+Dealer:
+Dancer:
+Picker:
+Helper:
+Starter:
+Maker:
+Stealer:
+Disturber:
+Hunter:
+Smith:
+Guard:
